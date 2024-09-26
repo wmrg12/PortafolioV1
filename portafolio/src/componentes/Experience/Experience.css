@@ -1,0 +1,36 @@
+.card1 {
+    background-color: #f4f4f9;
+    padding: 40px;
+    border-radius: 8px;
+    max-width: 740px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    text-align: left;
+    transition: transform 0.3s ease; 
+}
+
+
+.card1:hover {
+  transform: scale(1.05); 
+}
+  
+  
+  .card3 {
+    font-size: 1.1rem;
+    color:#ffa726;
+  }
+  
+  .fecha {
+    font-size: 0.9rem;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  
+  .descripcion {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+
+  }
+  
+  

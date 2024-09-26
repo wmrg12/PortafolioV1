@@ -1,0 +1,66 @@
+
+.card1 {
+    background-color: #f4f4f9;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 740px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    transition: transform 0.3s ease; 
+  }
+  
+  .estudio:hover {
+    transform: scale(1.05); 
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .estudio1 {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .logo {
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    margin-right: 20px;
+  }
+  
+  .info {
+    text-align: left;
+  }
+  
+  .universidad {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffa726; 
+    margin: 0;
+  }
+  
+  .carrera {
+    font-size: 16px;
+    font-weight: 600;
+    color: #4a5568; 
+  }
+  
+  .actualidad {
+    font-size: 14px;
+    color: #718096; 
+    margin-top: 5px;
+  }
+  
+  .educacion {
+    font-size: 14px;
+    color: #4a5568;
+    margin-top: 10px;
+    line-height: 1.5;
+  }
+  
